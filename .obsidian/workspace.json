@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "3ac772c0d3cc04a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "904e3eb8b7a4955c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7256cb47ba3e743a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-01-16.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-16"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "37d08e748d5b1901",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e16d44434326ce9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0970ba81cdefff21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "ae7ab4f4a5b4d3a2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "53e6006e37ecd5a1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb773bf75399937d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c155e01e20176d06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb452d1d4d2bb5b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "개발환경.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "개발환경의 백링크"
+            }
+          },
+          {
+            "id": "36e3f942ead77a61",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "개발환경.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 개발환경"
+            }
+          },
+          {
+            "id": "d25d519b457da500",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "41ea4bd596e2f84f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "개발환경.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 개발환경"
+            }
+          },
+          {
+            "id": "aaab4e0c9896e779",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "7256cb47ba3e743a",
+  "lastOpenFiles": [
+    "2025-01-16.md",
+    "무제 파일.canvas",
+    "개발환경/Linux.md",
+    "개발환경",
+    "개발환경.md",
+    "Untitled.canvas"
+  ]
+}
