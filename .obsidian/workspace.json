@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-01-16.md",
+                "file": "개발환경/Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-16"
+              "title": "Linux"
             }
           }
         ]
@@ -175,9 +175,11 @@
   },
   "active": "7256cb47ba3e743a",
   "lastOpenFiles": [
+    "개발환경/Git 명령어.md",
+    "개발환경/Linux.md",
+    "README.md",
     "2025-01-16.md",
     "무제 파일.canvas",
-    "개발환경/Linux.md",
     "개발환경",
     "개발환경.md",
     "Untitled.canvas"
