@@ -26,6 +26,8 @@ chronyc sources
 
 ![[Pasted image 20250121153240.png]]
 ![[Pasted image 20250121153243.png]]
+![[Pasted image 20250121153848.png]]
+![[Pasted image 20250121153901.png]]
 
 # 참고자료
 - https://jc-repo.tistory.com/6
